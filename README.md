@@ -17,5 +17,5 @@ A collection of my professional certifications.
 |#| Company | Role |Skills Practiced | Status | Link |
 |---|---|---|---|---|---|
 |1| JPMorgan Chase & Co. |Quantitative Research | Python,Data Analytics,Financial Modeling | Completed | [View](./google-analytics-cert.pdf) |
-|2| Citi | Markets Quantitative Analyst | | Ongoing | [View](./power-bi-cert.pdf) |
-|3| Quantium | Data Analyst |  | Ongoing | [View](./ibm-data-science-cert.pdf) |
+|2| Citi | Markets Quantitative Analyst | | Ongoing | - |
+|3| Quantium | Data Analyst |  | Ongoing | - |

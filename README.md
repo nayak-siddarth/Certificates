@@ -16,6 +16,6 @@ A collection of my professional certifications.
 
 |#| Company | Role |Skills Practiced | Status | Link |
 |---|---|---|---|---|---|
-|1| Cisco |Quantitative Research | Python,Data Analytics,Financial Modeling | Completed | [View](./google-analytics-cert.pdf) |
+|1| JPMorgan Chase & Co. |Quantitative Research | Python,Data Analytics,Financial Modeling | Completed | [View](./google-analytics-cert.pdf) |
 |2| Discover Data Analysis | Microsoft | [View](./power-bi-cert.pdf) |
 |3| Project Management Fundamentals | IBM SkillsBuild / IBM | [View](./ibm-data-science-cert.pdf) |

@@ -14,8 +14,8 @@ A collection of my professional certifications.
 
 A collection of my professional certifications.
 
-| Role | Issuer | Link |
+|#| Company | Role |Skills Practiced | Status | Link |
 |---|---|---|
-| Data Analytics Essentials | Cisco | [View](./google-analytics-cert.pdf) |
-| Discover Data Analysis | Microsoft | [View](./power-bi-cert.pdf) |
-| Project Management Fundamentals | IBM SkillsBuild / IBM | [View](./ibm-data-science-cert.pdf) |
+|1| Data Analytics Essentials | Cisco | [View](./google-analytics-cert.pdf) |
+|2| Discover Data Analysis | Microsoft | [View](./power-bi-cert.pdf) |
+|3| Project Management Fundamentals | IBM SkillsBuild / IBM | [View](./ibm-data-science-cert.pdf) |

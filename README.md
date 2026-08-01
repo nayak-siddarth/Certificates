@@ -6,7 +6,7 @@ A collection of my professional certifications.
 |---|---|---|
 | Data Analytics Essentials | Cisco | [View](https://www.credly.com/badges/1bf9db40-4b7e-44f5-9a11-b58933fbf6c8/public_url) |
 | Discover Data Analysis | Microsoft | [View](./MS_discoverDA.pdf) |
-| Project Management Fundamentals | IBM SkillsBuild / IBM | [View](https://www.credly.com/badges/c7f4c647-a4c9-4d98-93d5-a777a7bd4287/public_url) |
+| Project Management Fundamentals | IBM SkillsBuild  | [View](https://www.credly.com/badges/c7f4c647-a4c9-4d98-93d5-a777a7bd4287/public_url) |
 
 
 
